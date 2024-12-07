@@ -9,3 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithnaveenrapelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQEdHbLYpbCktw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730228365342?e=1738800000&v=beta&t=-g7bRFEEe3FJfgDOh7FYnSQD0ErqgV_PGe8EKtieNnc"  />
