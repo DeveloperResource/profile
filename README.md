@@ -20,5 +20,9 @@
 </div>
 
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/codewithnaveenrapelli/codewithnaveenrapelli/output/snake.svg" alt="Snake animation" />
 
