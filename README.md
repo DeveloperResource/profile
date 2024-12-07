@@ -1,6 +1,7 @@
 <h3 align="center">Hi 👋, I'm Naveen Rapelly<br>A passionate full-stack developer from India<br></h3>
 
 ###
+<br clear="both">
 <img align="right" height="250" src="https://media.licdn.com/dms/image/v2/D4D03AQEdHbLYpbCktw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730228365342?e=1738800000&v=beta&t=-g7bRFEEe3FJfgDOh7FYnSQD0ErqgV_PGe8EKtieNnc"  />
 
 <h3 align="left">
