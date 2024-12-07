@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Naveen Rapelly<br>A passionate full-stack developer from India<br></h3>
 
 ###
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQEdHbLYpbCktw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730228365342?e=1738800000&v=beta&t=-g7bRFEEe3FJfgDOh7FYnSQD0ErqgV_PGe8EKtieNnc"  />
+<img align="right" height="250" src="https://media.licdn.com/dms/image/v2/D4D03AQEdHbLYpbCktw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730228365342?e=1738800000&v=beta&t=-g7bRFEEe3FJfgDOh7FYnSQD0ErqgV_PGe8EKtieNnc"  />
 
 <h3 align="left">
 🌱 I’m currently learning Front End Technology<br><br> 🤝 I’m looking for help with Full Stack<br> <br> 👯 I’m looking to collaborate on Front-End and AEM<br> <br> 💬 Ask me about AEM, Java, HTML, CSS, JS, GIT, SQL<br> <br> 👨‍💻 All of my projects are available at https://github.com/codewithnaveenrapelli<br><br>📝 I regularly write articles on https://codewithnaveenrapelli.github.io/AEM_Notes/, https://codewithnaveenrapelli.github.io/web-development/<br> <br> 📫 How to reach me naveenrapelly34@gmail.com <br></h3>
